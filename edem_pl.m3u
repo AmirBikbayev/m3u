@@ -1,0 +1,1018 @@
+#EXTM3U
+#EXTINF:0,РБК-ТВ
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/106/index.m3u
+#EXTINF:0,Пятый Канал
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/112/index.m3u
+#EXTINF:0,Россия-24
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/507/index.m3u
+#EXTINF:0,Москва 24
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/523/index.m3u
+#EXTINF:0,BBC World News
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/545/index.m3u
+#EXTINF:0,Мир 24
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/712/index.m3u
+#EXTINF:0,НТВ (+2)
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/713/index.m3u
+#EXTINF:0,Первый канал (+2)
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/714/index.m3u
+#EXTINF:0,Санкт-Петербург
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/715/index.m3u
+#EXTINF:0,Пятый Канал (+2)
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/746/index.m3u
+#EXTINF:0,FRANCE 24 En
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/947/index.m3u
+#EXTINF:0,CNBC
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/962/index.m3u
+#EXTINF:0,Euronews
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/969/index.m3u
+#EXTINF:0,Deutsche Welle DE
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1021/index.m3u
+#EXTINF:0,Инфоканал
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/407/index.m3u
+#EXTINF:0,360°
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/825/index.m3u
+#EXTINF:0,Euronews Россия
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/828/index.m3u
+#EXTINF:0,CGTN
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/830/index.m3u
+#EXTINF:0,CGTN русский
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/831/index.m3u
+#EXTINF:0,RT News
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/840/index.m3u
+#EXTINF:0,CNN International Europe
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/842/index.m3u
+#EXTINF:0,IZ.RU
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/848/index.m3u
+#EXTINF:0,RT Arabic
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/862/index.m3u
+#EXTINF:0,RT Español
+#EXTGRP:новости
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/863/index.m3u
+#EXTINF:0,TV 1000 Русское кино
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/101/index.m3u
+#EXTINF:0,Ностальгия
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/102/index.m3u
+#EXTINF:0,СТС Love
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/103/index.m3u
+#EXTINF:0,Sony Sci-Fi
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/110/index.m3u
+#EXTINF:0,КИНОМИКС
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/509/index.m3u
+#EXTINF:0,КИНОСЕМЬЯ
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/125/index.m3u
+#EXTINF:0,РОДНОЕ КИНО
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/126/index.m3u
+#EXTINF:0,TV 1000 Action
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/131/index.m3u
+#EXTINF:0,Кинохит
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/516/index.m3u
+#EXTINF:0,Amedia 2
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/510/index.m3u
+#EXTINF:0,Наше новое кино
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/517/index.m3u
+#EXTINF:0,TV XXI
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/525/index.m3u
+#EXTINF:0,КИНОКОМЕДИЯ
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/145/index.m3u
+#EXTINF:0,ИНДИЙСКОЕ КИНО
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/146/index.m3u
+#EXTINF:0,КИНОСЕРИЯ
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/148/index.m3u
+#EXTINF:0,Русский Иллюзион
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/547/index.m3u
+#EXTINF:0,Еврокино
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/549/index.m3u
+#EXTINF:0,Fox Russia
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/550/index.m3u
+#EXTINF:0,Fox Life
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/553/index.m3u
+#EXTINF:0,Дом Кино
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/154/index.m3u
+#EXTINF:0,Amedia 1
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/554/index.m3u
+#EXTINF:0,Amedia Premium HD (SD)
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/555/index.m3u
+#EXTINF:0,AMEDIA HIT
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/556/index.m3u
+#EXTINF:0,TV 1000
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/132/index.m3u
+#EXTINF:0,МУЖСКОЕ КИНО
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/164/index.m3u
+#EXTINF:0,Hollywood
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/557/index.m3u
+#EXTINF:0,Sony Entertainment Television
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/559/index.m3u
+#EXTINF:0,2X2
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/702/index.m3u
+#EXTINF:0,Sony Turbo
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/708/index.m3u
+#EXTINF:0,Русский бестселлер
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/905/index.m3u
+#EXTINF:0,Русский роман
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/906/index.m3u
+#EXTINF:0,Русский детектив
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/907/index.m3u
+#EXTINF:0,Любимое Кино
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/722/index.m3u
+#EXTINF:0,КИНОСВИДАНИЕ
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/728/index.m3u
+#EXTINF:0,КИНО ТВ
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/732/index.m3u
+#EXTINF:0,Русская Комедия
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/733/index.m3u
+#EXTINF:0,Detektiv.tv
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/734/index.m3u
+#EXTINF:0,НТВ‑ХИТ
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/741/index.m3u
+#EXTINF:0,НТВ Сериал
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/744/index.m3u
+#EXTINF:0,НСТ
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/726/index.m3u
+#EXTINF:0,Bollywood
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/719/index.m3u
+#EXTINF:0,FilmBox
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/817/index.m3u
+#EXTINF:0,Filmbox Arthouse
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/818/index.m3u
+#EXTINF:0,Kino Polska International
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/821/index.m3u
+#EXTINF:0,ZEE TV
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1001/index.m3u
+#EXTINF:0,FilmBox EN
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1071/index.m3u
+#EXTINF:0,Дорама
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1066/index.m3u
+#EXTINF:0,TV1000 World Kino
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1065/index.m3u
+#EXTINF:0,Мир Сериала
+#EXTGRP:кино
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/856/index.m3u
+#EXTINF:0,Europa Plus TV
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/115/index.m3u
+#EXTINF:0,МУЗ
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/116/index.m3u
+#EXTINF:0,BRIDGE TV Русский Хит
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/120/index.m3u
+#EXTINF:0,Bridge TV
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/122/index.m3u
+#EXTINF:0,MTV
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/142/index.m3u
+#EXTINF:0,MTV Hits
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/153/index.m3u
+#EXTINF:0,Музыка
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/155/index.m3u
+#EXTINF:0,VH1 European
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/536/index.m3u
+#EXTINF:0,MTV Dance
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/558/index.m3u
+#EXTINF:0,Mezzo
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/707/index.m3u
+#EXTINF:0,ТНТ MUSIC
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/710/index.m3u
+#EXTINF:0,BRIDGE TV DANCE
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/711/index.m3u
+#EXTINF:0,Наше ТВ
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/721/index.m3u
+#EXTINF:0,VH1 Classic
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/724/index.m3u
+#EXTINF:0,Vostok TV
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1054/index.m3u
+#EXTINF:0,360 Tune Box
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/810/index.m3u
+#EXTINF:0,Kino Polska Muzyka
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/822/index.m3u
+#EXTINF:0,MTV Rocks
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1038/index.m3u
+#EXTINF:0,MCM Top Russia
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/836/index.m3u
+#EXTINF:0,RU.TV
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/838/index.m3u
+#EXTINF:0,Шансон ТВ
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/859/index.m3u
+#EXTINF:0,VIVA TV
+#EXTGRP:музыка
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/301/index.m3u
+#EXTINF:0,История
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/111/index.m3u
+#EXTINF:0,Моя Планета
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/117/index.m3u
+#EXTINF:0,Наука 2.0
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/118/index.m3u
+#EXTINF:0,Outdoor Channel
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/119/index.m3u
+#EXTINF:0,Сов. Секретно
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/121/index.m3u
+#EXTINF:0,Россия-Культура
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/505/index.m3u
+#EXTINF:0,Доктор
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/512/index.m3u
+#EXTINF:0,Авто 24
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/538/index.m3u
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/133/index.m3u
+#EXTINF:0,nat geographic
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/134/index.m3u
+#EXTINF:0,Discovery Science
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/136/index.m3u
+#EXTINF:0,Animal Planet
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/137/index.m3u
+#EXTINF:0,ID Xtra
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/139/index.m3u
+#EXTINF:0,Discovery Channel
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/140/index.m3u
+#EXTINF:0,Авто Плюс
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/151/index.m3u
+#EXTINF:0,Кухня ТВ
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/152/index.m3u
+#EXTINF:0,Время
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/552/index.m3u
+#EXTINF:0,Домашние Животные
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/158/index.m3u
+#EXTINF:0,Точка отрыва
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/159/index.m3u
+#EXTINF:0,Надежда
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/656/index.m3u
+#EXTINF:0,Viasat Nature
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/161/index.m3u
+#EXTINF:0,Viasat History
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/162/index.m3u
+#EXTINF:0,Viasat Explore
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/163/index.m3u
+#EXTINF:0,Travel Channel
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/130/index.m3u
+#EXTINF:0,Первый образовательный
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/701/index.m3u
+#EXTINF:0,OCEAN-TV
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/703/index.m3u
+#EXTINF:0,Бобёр
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/725/index.m3u
+#EXTINF:0,Зоопарк
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/731/index.m3u
+#EXTINF:0,E
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/736/index.m3u
+#EXTINF:0,Морской
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/742/index.m3u
+#EXTINF:0,Усадьба
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/532/index.m3u
+#EXTINF:0,English Club TV
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/993/index.m3u
+#EXTINF:0,H2
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1052/index.m3u
+#EXTINF:0,Travel TV
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1044/index.m3u
+#EXTINF:0,DocuBox HD
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/811/index.m3u
+#EXTINF:0,Sea TV
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/824/index.m3u
+#EXTINF:0,Classical Harmony
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1037/index.m3u
+#EXTINF:0,Travel Channel EN
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1070/index.m3u
+#EXTINF:0,History Russia
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/837/index.m3u
+#EXTINF:0,RTG TV
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/841/index.m3u
+#EXTINF:0,Диалоги о рыбалке
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/844/index.m3u
+#EXTINF:0,Первый Метео
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/845/index.m3u
+#EXTINF:0,Дикий
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/847/index.m3u
+#EXTINF:0,Spike Russia
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/849/index.m3u
+#EXTINF:0,travel+adventure
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/850/index.m3u
+#EXTINF:0,TRiCK
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/858/index.m3u
+#EXTINF:0,Поехали!
+#EXTGRP:познавательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/135/index.m3u
+#EXTINF:0,Tiji TV
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/108/index.m3u
+#EXTINF:0,Gulli
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/109/index.m3u
+#EXTINF:0,Nick Jr
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/114/index.m3u
+#EXTINF:0,Nickelodeon
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/541/index.m3u
+#EXTINF:0,Disney
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/524/index.m3u
+#EXTINF:0,Детский мир
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/543/index.m3u
+#EXTINF:0,Jim Jam
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/138/index.m3u
+#EXTINF:0,Cartoon Network
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/143/index.m3u
+#EXTINF:0,Карусель
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/156/index.m3u
+#EXTINF:0,Ani
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/129/index.m3u
+#EXTINF:0,Мульт
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/909/index.m3u
+#EXTINF:0,Тлум HD
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/240/index.m3u
+#EXTINF:0,Boomerang
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/723/index.m3u
+#EXTINF:0,О!
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/727/index.m3u
+#EXTINF:0,Детский
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/730/index.m3u
+#EXTINF:0,В гостях у сказки
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/737/index.m3u
+#EXTINF:0,Карусель (+3)
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/740/index.m3u
+#EXTINF:0,Мультимузыка
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/749/index.m3u
+#EXTINF:0,Мультик HD
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/921/index.m3u
+#EXTINF:0,Duck TV
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1031/index.m3u
+#EXTINF:0,BabyTV
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/807/index.m3u
+#EXTINF:0,Da Vinci Kids
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1033/index.m3u
+#EXTINF:0,Da Vinci Kids PL
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1034/index.m3u
+#EXTINF:0,Малыш
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1041/index.m3u
+#EXTINF:0,Nickelodeon EN
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1069/index.m3u
+#EXTINF:0,Радость моя
+#EXTGRP:детские
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/853/index.m3u
+#EXTINF:0,ТНТ4
+#EXTGRP:развлекательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/104/index.m3u
+#EXTINF:0,ЖАРА
+#EXTGRP:развлекательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/105/index.m3u
+#EXTINF:0,Paramount Comedy Russia
+#EXTGRP:развлекательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/157/index.m3u
+#EXTINF:0,ТНТ (+2)
+#EXTGRP:развлекательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/717/index.m3u
+#EXTINF:0,НТВ Стиль
+#EXTGRP:развлекательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/745/index.m3u
+#EXTINF:0,Fashiontv EN
+#EXTGRP:развлекательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1010/index.m3u
+#EXTINF:0,World Fashion Channel
+#EXTGRP:развлекательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1068/index.m3u
+#EXTINF:0,Супер
+#EXTGRP:развлекательные
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/826/index.m3u
+#EXTINF:0,Мир
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/113/index.m3u
+#EXTINF:0,НТВ
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/501/index.m3u
+#EXTINF:0,ТНТ
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/502/index.m3u
+#EXTINF:0,Пятница
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/503/index.m3u
+#EXTINF:0,Россия 1
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/504/index.m3u
+#EXTINF:0,СТС
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/506/index.m3u
+#EXTINF:0,ТВ3
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/508/index.m3u
+#EXTINF:0,Первый канал
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/127/index.m3u
+#EXTINF:0,РЕН ТВ
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/128/index.m3u
+#EXTINF:0,Че
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/513/index.m3u
+#EXTINF:0,Домашний
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/514/index.m3u
+#EXTINF:0,ТНВ-Планета
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/515/index.m3u
+#EXTINF:0,ТВЦ
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/520/index.m3u
+#EXTINF:0,Телеканал Да Винчи
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/537/index.m3u
+#EXTINF:0,Телеканал Звезда
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/544/index.m3u
+#EXTINF:0,Ю ТВ
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/534/index.m3u
+#EXTINF:0,КВН ТВ
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/546/index.m3u
+#EXTINF:0,Мама
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/704/index.m3u
+#EXTINF:0,ОТР
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/705/index.m3u
+#EXTINF:0,CBS Reality
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/706/index.m3u
+#EXTINF:0,ТВЦ (+2)
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/716/index.m3u
+#EXTINF:0,NHK World TV
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/729/index.m3u
+#EXTINF:0,Fine Living
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/735/index.m3u
+#EXTINF:0,ЖИВИ!
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/738/index.m3u
+#EXTINF:0,Звезда (+2)
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/739/index.m3u
+#EXTINF:0,НТВ Право
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/743/index.m3u
+#EXTINF:0,РЕН ТВ (+2)
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/747/index.m3u
+#EXTINF:0,Сарафан
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/748/index.m3u
+#EXTINF:0,CNL
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/955/index.m3u
+#EXTINF:0,Al Jazeera
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/960/index.m3u
+#EXTINF:0,TVP Info
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/961/index.m3u
+#EXTINF:0,France 24
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/964/index.m3u
+#EXTINF:0,AzTV
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/966/index.m3u
+#EXTINF:0,Kabbala TV
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/970/index.m3u
+#EXTINF:0,Life TV
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/971/index.m3u
+#EXTINF:0,Йога 23
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/974/index.m3u
+#EXTINF:0,СПАС
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/983/index.m3u
+#EXTINF:0,Возрождение
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/984/index.m3u
+#EXTINF:0,Архыз 24
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1049/index.m3u
+#EXTINF:0,CBC AZ
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1050/index.m3u
+#EXTINF:0,GUNAZ TV
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1051/index.m3u
+#EXTINF:0,Kabbala TV
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1053/index.m3u
+#EXTINF:0,8 канал
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1057/index.m3u
+#EXTINF:0,8 канал Красноярский край
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1058/index.m3u
+#EXTINF:0,Астрахань 24
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1059/index.m3u
+#EXTINF:0,Беларусь 24
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1061/index.m3u
+#EXTINF:0,Shop & Show
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/827/index.m3u
+#EXTINF:0,CCTV-4 Europe
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/829/index.m3u
+#EXTINF:0,Башкирское спутниковое телевидение
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/832/index.m3u
+#EXTINF:0,Первый Вегетарианский
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/833/index.m3u
+#EXTINF:0,ТВЦ-Урал
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/834/index.m3u
+#EXTINF:0,БелРос
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/835/index.m3u
+#EXTINF:0,RT Documentary
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/839/index.m3u
+#EXTINF:0,Просвещение
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/846/index.m3u
+#EXTINF:0,Продвижение
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/851/index.m3u
+#EXTINF:0,Загородная Жизнь
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/852/index.m3u
+#EXTINF:0,ДОН 24
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/854/index.m3u
+#EXTINF:0,Грозный
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/855/index.m3u
+#EXTINF:0,Брянская Губерния
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/857/index.m3u
+#EXTINF:0,Shopping Live
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/860/index.m3u
+#EXTINF:0,Shop 24
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/861/index.m3u
+#EXTINF:0,Твой дом
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/864/index.m3u
+#EXTINF:0,Телекафе
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/865/index.m3u
+#EXTINF:0,Кубань 24 ОРБИТА
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/866/index.m3u
+#EXTINF:0,Губерния
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/867/index.m3u
+#EXTINF:0,ACB TV
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/868/index.m3u
+#EXTINF:0,Москва Доверие
+#EXTGRP:другие
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/869/index.m3u
+#EXTINF:0,Матч! Наш спорт
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/107/index.m3u
+#EXTINF:0,Матч! Планета
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/123/index.m3u
+#EXTINF:0,Матч! Футбол 1
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/124/index.m3u
+#EXTINF:0,МАТЧ ПРЕМЬЕР
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/531/index.m3u
+#EXTINF:0,KHL
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/519/index.m3u
+#EXTINF:0,Матч! Футбол 3
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/522/index.m3u
+#EXTINF:0,Матч! Арена
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/528/index.m3u
+#EXTINF:0,Матч! Игра
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/529/index.m3u
+#EXTINF:0,Матч! Футбол 2
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/530/index.m3u
+#EXTINF:0,Матч ТВ
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/535/index.m3u
+#EXTINF:0,Eurosport 1
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/141/index.m3u
+#EXTINF:0,Extreme Sports
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/144/index.m3u
+#EXTINF:0,Матч! Боец
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/150/index.m3u
+#EXTINF:0,Viasat Sport
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/160/index.m3u
+#EXTINF:0,M-1 Global TV
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/843/index.m3u
+#EXTINF:0,Бокс ТВ
+#EXTGRP:спорт
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/870/index.m3u
+#EXTINF:0,Первый HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/204/index.m3u
+#EXTINF:0,VIP Premiere
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/202/index.m3u
+#EXTINF:0,VIP Comedy
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/200/index.m3u
+#EXTINF:0,VIP Megahit
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/201/index.m3u
+#EXTINF:0,Viasat Nature/History HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/203/index.m3u
+#EXTINF:0,Россия 1 HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/205/index.m3u
+#EXTINF:0,Матч! Футбол 3 HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/206/index.m3u
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/207/index.m3u
+#EXTINF:0,Viasat Sport HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/208/index.m3u
+#EXTINF:0,Hollywood HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/209/index.m3u
+#EXTINF:0,RTG HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/210/index.m3u
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/211/index.m3u
+#EXTINF:0,Матч! HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/212/index.m3u
+#EXTINF:0,НТВ HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/213/index.m3u
+#EXTINF:0,Конный Мир HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/214/index.m3u
+#EXTINF:0,Телеканал КХЛ HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/215/index.m3u
+#EXTINF:0,Nat Geo Wild HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/216/index.m3u
+#EXTINF:0,Mezzo Live HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/217/index.m3u
+#EXTINF:0,Animal Planet HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/218/index.m3u
+#EXTINF:0,Fox HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/219/index.m3u
+#EXTINF:0,МАТЧ ПРЕМЬЕР HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/220/index.m3u
+#EXTINF:0,MTV Live HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/221/index.m3u
+#EXTINF:0,Матч! Футбол 1 HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/222/index.m3u
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/223/index.m3u
+#EXTINF:0,КИНОПРЕМЬЕРА HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/224/index.m3u
+#EXTINF:0,Матч! Игра HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/225/index.m3u
+#EXTINF:0,HD Life
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/226/index.m3u
+#EXTINF:0,Discovery Channel HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/227/index.m3u
+#EXTINF:0,Eurosport 1 HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/228/index.m3u
+#EXTINF:0,Amedia Premium HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/229/index.m3u
+#EXTINF:0,National Geographic HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/230/index.m3u
+#EXTINF:0,History HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/231/index.m3u
+#EXTINF:0,TLC HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/232/index.m3u
+#EXTINF:0,Travel Channel HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/233/index.m3u
+#EXTINF:0,Eurosport 2 North-East HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/234/index.m3u
+#EXTINF:0,Остросюжетное HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/904/index.m3u
+#EXTINF:0,Дом Кино Премиум HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/911/index.m3u
+#EXTINF:0,Шокирующее
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/913/index.m3u
+#EXTINF:0,Кинопоказ HD-2
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/912/index.m3u
+#EXTINF:0,Наш Кинороман HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/914/index.m3u
+#EXTINF:0,Наш Детектив HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/915/index.m3u
+#EXTINF:0,Охотник и рыболов HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/917/index.m3u
+#EXTINF:0,ЕДА Премиум
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/918/index.m3u
+#EXTINF:0,Мир HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/235/index.m3u
+#EXTINF:0,BRIDGE HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/236/index.m3u
+#EXTINF:0,ТНТ HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/237/index.m3u
+#EXTINF:0,1HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/238/index.m3u
+#EXTINF:0,Bollywood HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/239/index.m3u
+#EXTINF:0,Теледом
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/954/index.m3u
+#EXTINF:0,Настоящее время
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/986/index.m3u
+#EXTINF:0,Travel HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1043/index.m3u
+#EXTINF:0,Food Network
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/819/index.m3u
+#EXTINF:0,Gametoon
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/820/index.m3u
+#EXTINF:0,Nautical Channel
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/823/index.m3u
+#EXTINF:0,XSPORT HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/996/index.m3u
+#EXTINF:0,Fashiontv EN HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1011/index.m3u
+#EXTINF:0,Epic Drama
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1048/index.m3u
+#EXTINF:0,Эврика HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/908/index.m3u
+#EXTINF:0,Приключения HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/920/index.m3u
+#EXTINF:0,Deluxe Lounge HD
+#EXTGRP:HD
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/968/index.m3u
+#EXTINF:0,SHOT TV
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/526/index.m3u
+#EXTINF:0,Playboy
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/527/index.m3u
+#EXTINF:0,Русская Ночь
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/147/index.m3u
+#EXTINF:0,Brazzers TV Europe
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/910/index.m3u
+#EXTINF:0,Искушение HD
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/919/index.m3u
+#EXTINF:0,Шалун
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/922/index.m3u
+#EXTINF:0,Candy
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/923/index.m3u
+#EXTINF:0,Erox HD
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/813/index.m3u
+#EXTINF:0,Penthouse TV
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1073/index.m3u
+#EXTINF:0,Blue Hustler
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/1064/index.m3u
+#EXTINF:0,Barely legal
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/871/index.m3u
+#EXTINF:0,BRAZZERS TV Europe 2
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/872/index.m3u
+#EXTINF:0,Sexto Senso
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/875/index.m3u
+#EXTINF:0,PRIVE
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/877/index.m3u
+#EXTINF:0,Passion XXX
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/878/index.m3u
+#EXTINF:0,Redlight HD
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/242/index.m3u
+#EXTINF:0,Private TV
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/243/index.m3u
+#EXTINF:0,Hustler HD Europe
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/244/index.m3u
+#EXTINF:0,Dorcel TV HD
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/245/index.m3u
+#EXTINF:0,Pink'o TV
+#EXTGRP:взрослые
+http://timur.ottv.biz/iptv/BACU6GGT7XNVQC/874/index.m3u
